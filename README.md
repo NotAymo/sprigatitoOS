@@ -1,0 +1,2 @@
+# sprigatitoOS
+uwu~
