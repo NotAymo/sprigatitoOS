@@ -9,6 +9,8 @@ you need:
 - A terminal
 - Python 3 or higher
 - linux (use wsl if you're a windows user (fish react yourself))
+
+
 **note**: no support is guaranteed for windows 
 # How to use 2: electric boogaloo
 enter `python3 os.py` to start
